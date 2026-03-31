@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "state": "Louisiana",
+    "last_updated": "2024-12-01",
+    "state_rate": 0.0445,
+    "description": "Louisiana Sales & Use Tax — Key Statutes, Exemptions, and Revenue Rulings (2020–2024)"
+  },
+  "statutes": [
+    {
+      "id": "RS-47-301",
+      "cite": "La. R.S. 47:301",
+      "title": "Definitions",
+      "effective": "2019-07-01",
+      "summary": "Defines key terms for Louisiana sales and use tax purposes.",
+      "provisions": [
+        { "subsection": "47:301(4)", "text": "'Dealer' means every person who manufactures or produces tangible personal property for sale at retail, for use, or for distribution. Also includes every person who imports or causes to be imported tangible personal property from any other state, country, or jurisdiction for use, distribution, storage for use, or for sale." },
+        { "subsection": "47:301(10)", "text": "'Sale' means any transfer of title or possession, or both, exchange, barter, lease or rental, conditional or otherwise, in any manner or by any means whatsoever, of tangible personal property for a consideration." },
+        { "subsection": "47:301(13)", "text": "'Tangible personal property' means personal property that can be seen, weighed, measured, felt, or touched, or that is in any other manner perceptible to the senses." },
+        { "subsection": "47:301(14)", "text": "'Retail sale' or 'sale at retail' means a sale to a consumer or to any person for any purpose other than for resale as tangible personal property." },
+        { "subsection": "47:301(16)", "text": "'Services' — certain enumerated services are taxable including repairs to tangible personal property, printing, laundry and cleaning services, cold storage, parking, and admissions to places of amusement." },
+        { "subsection": "47:301(3)", "text": "'Cost price' means the actual cost of the articles of tangible personal property without any deductions therefrom on account of the cost of materials used, labor, or service costs, transportation charges, or any other expenses whatsoever." }
+      ]
+    },
+    {
+      "id": "RS-47-302",
+      "cite": "La. R.S. 47:302",
+      "title": "Imposition of State Sales and Use Tax",
+      "effective": "2018-07-01",
+      "summary": "Imposes the Louisiana state sales and use tax at 4.45% on retail sales of tangible personal property and certain services.",
+      "provisions": [
+        { "subsection": "47:302(A)", "text": "There is hereby levied a tax upon the sale at retail, the use, the consumption, the distribution, and the storage for use or consumption in this state, of each item or article of tangible personal property, as defined herein. The rate is 4.45% of the sales price." },
+        { "subsection": "47:302(B)", "text": "There is hereby levied a tax upon the lease or rental within this state of each item or article of tangible personal property, at the rate of 4.45% of the gross proceeds derived from such lease or rental." },
+        { "subsection": "47:302(C)", "text": "There is hereby levied a tax upon the sale of services, as defined in R.S. 47:301(14), at the rate of 4.45% of the sales price of such services." },
+        { "subsection": "47:302(D)", "text": "Note: The state rate was permanently set at 4.45% effective July 1, 2018 (Act 2018 No. 1). Prior to that date, additional temporary rates applied. Act 2022 extended 4.45% through June 30, 2025." }
+      ]
+    },
+    {
+      "id": "RS-47-305",
+      "cite": "La. R.S. 47:305",
+      "title": "Exclusions and Exemptions — General",
+      "effective": "2019-01-01",
+      "summary": "Provides general exclusions from the Louisiana sales and use tax base.",
+      "provisions": [
+        { "subsection": "47:305(A)(1)", "text": "The tax levied by R.S. 47:302 shall not apply to sales of food for home consumption. 'Food for home consumption' means food and food ingredients as defined by the Streamlined Sales Tax Agreement, excluding prepared food, alcoholic beverages, dietary supplements, and tobacco." },
+        { "subsection": "47:305(A)(2)", "text": "Sales of prescription drugs and medical devices are excluded from sales tax when sold pursuant to a valid prescription." },
+        { "subsection": "47:305(A)(3)", "text": "Sales of gasoline and motor fuels subject to the state excise tax are excluded from sales tax." },
+        { "subsection": "47:305(B)", "text": "Resale exemption: Sales of tangible personal property to dealers for resale are excluded, provided the purchaser furnishes a valid resale certificate (Form R-1064)." },
+        { "subsection": "47:305(D)(1)(h)", "text": "Sales of steam, water, electric power or energy, or natural gas for non-residential and non-commercial purposes used in the production of commodities intended for sale may qualify for an industrial exclusion." },
+        { "subsection": "47:305(D)(2)", "text": "Manufacturing machinery and equipment used in the production process may qualify for an exemption when used by manufacturers classified under NAICS codes." }
+      ]
+    },
+    {
+      "id": "RS-47-305-1",
+      "cite": "La. R.S. 47:305.1",
+      "title": "Exemption — Certain Medical and Dental Equipment",
+      "effective": "2020-01-01",
+      "summary": "Exempts sales of certain medical equipment and supplies.",
+      "provisions": [
+        { "subsection": "47:305.1(A)", "text": "The sale, use, consumption, or storage of prosthetic devices, durable medical equipment, and orthotic devices prescribed by a licensed physician or dentist shall be exempt from state sales and use tax." },
+        { "subsection": "47:305.1(B)", "text": "Effective January 1, 2020, over-the-counter drugs and medical devices that do not require a prescription are subject to state sales tax unless otherwise exempted." }
+      ]
+    },
+    {
+      "id": "RS-47-305-2",
+      "cite": "La. R.S. 47:305.2",
+      "title": "Exemption — Agricultural Products and Farming",
+      "effective": "2019-07-01",
+      "summary": "Exempts certain agricultural inputs and farm machinery.",
+      "provisions": [
+        { "subsection": "47:305.2(A)", "text": "Seeds and fertilizers used for the production of food and fiber crops intended for sale are exempt from state sales and use tax." },
+        { "subsection": "47:305.2(B)", "text": "Farm machinery and equipment used directly in the production of crops or livestock for market are exempt. The purchaser must complete Form R-1060 (Farmer's Exemption Certificate)." },
+        { "subsection": "47:305.2(C)", "text": "Fuel and electricity used directly in the production of food and fiber are exempt when used by a qualifying agricultural producer." }
+      ]
+    },
+    {
+      "id": "RS-47-305-3",
+      "cite": "La. R.S. 47:305.3",
+      "title": "Exemption — Nonprofit Organizations",
+      "effective": "2019-07-01",
+      "summary": "Provides limited sales tax exemptions for qualifying nonprofit organizations.",
+      "provisions": [
+        { "subsection": "47:305.3(A)", "text": "Sales of tangible personal property made by nonprofit organizations that are recognized under IRC 501(c)(3) may qualify for exemption if the sales are related to the organization's exempt purpose. LDR Form R-20125 must be obtained." },
+        { "subsection": "47:305.3(B)", "text": "Note: Louisiana does NOT provide a blanket exemption for purchases by nonprofits. Nonprofits are subject to sales tax on their purchases unless a specific statutory exemption applies." },
+        { "subsection": "47:305.3(C)", "text": "Churches and religious organizations qualify for limited exemptions on purchases of property used exclusively for religious purposes per LDR policy, but must apply for exemption status." }
+      ]
+    },
+    {
+      "id": "RS-47-305-8",
+      "cite": "La. R.S. 47:305.8",
+      "title": "Exemption — Manufacturing Machinery and Equipment",
+      "effective": "2020-07-01",
+      "summary": "Exempts machinery, equipment, and materials used in manufacturing.",
+      "provisions": [
+        { "subsection": "47:305.8(A)", "text": "Machinery and equipment used in the manufacturing process, which is purchased by a manufacturer classified under NAICS manufacturing codes, is exempt from state sales and use tax." },
+        { "subsection": "47:305.8(B)", "text": "The exemption extends to raw materials, catalysts, and other items that become component parts of the manufactured product, or are consumed in the manufacturing process." },
+        { "subsection": "47:305.8(C)", "text": "The manufacturing exemption does NOT apply to: office equipment, administrative supplies, janitorial supplies, or equipment used after the production process is complete." }
+      ]
+    },
+    {
+      "id": "RS-47-305-14",
+      "cite": "La. R.S. 47:305.14",
+      "title": "Exemption — Educational Materials",
+      "effective": "2019-07-01",
+      "summary": "Exempts certain educational materials.",
+      "provisions": [
+        { "subsection": "47:305.14(A)(1)", "text": "Sales of textbooks and educational materials required for use in connection with courses offered by a public or private institution of higher learning are exempt from state sales tax." },
+        { "subsection": "47:305.14(A)(2)", "text": "School supplies purchased by students enrolled in kindergarten through grade 12 are exempt during the annual Louisiana Sales Tax Holiday (first weekend of August)." }
+      ]
+    },
+    {
+      "id": "RS-47-305-54",
+      "cite": "La. R.S. 47:305.54",
+      "title": "Digital Products and SaaS",
+      "effective": "2020-07-01",
+      "summary": "Addresses taxation of digital products and software.",
+      "provisions": [
+        { "subsection": "47:305.54(A)", "text": "Sales of prewritten computer software, whether delivered electronically or on tangible media, are subject to Louisiana sales tax as sales of tangible personal property or taxable services." },
+        { "subsection": "47:305.54(B)", "text": "Effective July 1, 2020, Louisiana taxes the sale, use, or subscription to digital products including digital audio works, digital audiovisual works, and digital books." },
+        { "subsection": "47:305.54(C)", "text": "Software as a Service (SaaS): The LDR has issued guidance that cloud-based software accessed remotely may be subject to sales tax when the customer is located in Louisiana and has beneficial use of the software in Louisiana." }
+      ]
+    },
+    {
+      "id": "RS-47-306",
+      "cite": "La. R.S. 47:306",
+      "title": "Returns and Payment — Dealer Obligations",
+      "effective": "2019-07-01",
+      "summary": "Dealer filing and remittance requirements.",
+      "provisions": [
+        { "subsection": "47:306(A)", "text": "Every dealer shall file a return and remit taxes collected on or before the 20th day of the month following the month in which the sale occurred. Large dealers (over $96,000 annual tax liability) must file and remit monthly." },
+        { "subsection": "47:306(B)", "text": "Dealers with smaller liabilities may qualify to file quarterly. The LDR assigns filing frequency based on prior year liability." },
+        { "subsection": "47:306(C)", "text": "Effective 2022, remote sellers with over $100,000 in Louisiana sales or 200 transactions must register and collect Louisiana sales tax (economic nexus, per Wayfair)." }
+      ]
+    },
+    {
+      "id": "RS-47-309",
+      "cite": "La. R.S. 47:309",
+      "title": "Penalties and Interest",
+      "effective": "2019-07-01",
+      "summary": "Penalties for failure to file, pay, or collect sales tax.",
+      "provisions": [
+        { "subsection": "47:309(A)", "text": "Failure to file: 5% of the tax due per month, not to exceed 25% of the tax due." },
+        { "subsection": "47:309(B)", "text": "Failure to pay: Interest accrues at the rate established by the LDR, generally tied to the federal short-term rate plus 3 percentage points." },
+        { "subsection": "47:309(C)", "text": "Fraud penalty: If failure to pay is due to fraud, a penalty of 50% of the tax due may be imposed." }
+      ]
+    },
+    {
+      "id": "RS-47-340",
+      "cite": "La. R.S. 47:340",
+      "title": "Streamlined Sales Tax — Remote Sellers / Economic Nexus",
+      "effective": "2020-01-01",
+      "summary": "Economic nexus and remote seller requirements post-Wayfair.",
+      "provisions": [
+        { "subsection": "47:340(A)", "text": "A remote seller that has no physical presence in Louisiana but has $100,000 or more in annual Louisiana sales, or 200 or more separate transactions into Louisiana, must register with the LDR and collect and remit Louisiana state and applicable local sales taxes." },
+        { "subsection": "47:340(B)", "text": "Marketplace facilitators (Amazon, eBay, Etsy, etc.) with economic nexus are responsible for collecting and remitting sales tax on behalf of third-party sellers on their platform." },
+        { "subsection": "47:340(C)", "text": "Effective January 1, 2020, Louisiana joined the Streamlined Sales Tax (SST) Agreement, providing uniform definitions and simplified compliance for remote sellers." }
+      ]
+    }
+  ],
+  "revenue_rulings": [
+    {
+      "id": "RR-20-001",
+      "cite": "LDR Revenue Ruling 20-001",
+      "date": "2020-03-15",
+      "topic": "SaaS and Cloud Computing",
+      "summary": "Addresses Louisiana sales tax treatment of Software as a Service.",
+      "ruling": "Cloud-based software (SaaS) accessed by Louisiana customers is subject to Louisiana sales and use tax when the customer has the right to use the software and the beneficial use occurs in Louisiana. The fact that the software is hosted on a server outside Louisiana does not negate the tax obligation. The dealer must collect and remit tax based on the Louisiana customer's location."
+    },
+    {
+      "id": "RR-20-002",
+      "cite": "LDR Revenue Ruling 20-002",
+      "date": "2020-06-01",
+      "topic": "Digital Products — Streaming Services",
+      "summary": "Streaming audio and video subscriptions are taxable as digital products.",
+      "ruling": "Subscriptions to streaming services (music, video, podcasts) delivered electronically to Louisiana customers are subject to state sales tax effective July 1, 2020 under the digital products legislation. The sourcing rule places the sale at the customer's address."
+    },
+    {
+      "id": "RR-21-001",
+      "cite": "LDR Revenue Ruling 21-001",
+      "date": "2021-02-10",
+      "topic": "Remote Seller Economic Nexus — Marketplace Facilitators",
+      "summary": "Marketplace facilitators must collect and remit tax on all facilitated sales.",
+      "ruling": "A marketplace facilitator meeting Louisiana's economic nexus threshold ($100,000 or 200 transactions) must collect and remit sales tax on all sales facilitated through its marketplace, including sales by third-party sellers. Third-party sellers using a marketplace facilitator are relieved of collection obligation for those sales."
+    },
+    {
+      "id": "RR-21-002",
+      "cite": "LDR Revenue Ruling 21-002",
+      "date": "2021-08-15",
+      "topic": "Construction Contractors — Materials",
+      "summary": "Sales tax treatment of materials used in construction contracts.",
+      "ruling": "A contractor who purchases materials for incorporation into a lump-sum construction contract owes sales or use tax on the materials at the time of purchase. Materials incorporated into real property become real property and are not resold; therefore, the contractor is the end consumer. Time and materials contracts are treated differently — the contractor may purchase tax-free for resale if separately stated on the invoice."
+    },
+    {
+      "id": "RR-22-001",
+      "cite": "LDR Revenue Ruling 22-001",
+      "date": "2022-01-20",
+      "topic": "Food for Home Consumption — Prepared Food Line",
+      "summary": "Clarifies the taxable/exempt line for prepared food.",
+      "ruling": "Food sold in a heated state, food sold with utensils, and food sold from a salad bar or buffet are 'prepared food' and subject to sales tax. Food sold unheated and without utensils that requires further preparation at home is generally exempt as 'food for home consumption.' Bakery items sold without utensils and not heated are exempt even if they could be consumed immediately."
+    },
+    {
+      "id": "RR-22-002",
+      "cite": "LDR Revenue Ruling 22-002",
+      "date": "2022-05-10",
+      "topic": "Nonprofit Purchases — No General Exemption",
+      "summary": "Confirms nonprofits owe sales tax on purchases absent a specific exemption.",
+      "ruling": "Louisiana does not provide a general sales tax exemption for purchases made by nonprofit organizations. A 501(c)(3) status alone does not exempt the organization's purchases from sales tax. Specific statutory exemptions must be identified and applied for through the LDR. The exemption under R.S. 47:305.3 applies only to sales MADE by qualifying nonprofits for exempt purposes, not purchases."
+    },
+    {
+      "id": "RR-23-001",
+      "cite": "LDR Revenue Ruling 23-001",
+      "date": "2023-03-01",
+      "topic": "NFTs and Digital Assets",
+      "summary": "Sales tax treatment of non-fungible tokens.",
+      "ruling": "Non-fungible tokens (NFTs) that represent a digital product (digital art, music, video) are subject to Louisiana sales tax under the digital products rules when sold to Louisiana customers. NFTs that represent only a financial interest or collectible with no underlying digital product are not currently subject to Louisiana sales tax."
+    },
+    {
+      "id": "RR-23-002",
+      "cite": "LDR Revenue Ruling 23-002",
+      "date": "2023-07-15",
+      "topic": "Remote Work — Nexus for Out-of-State Employers",
+      "summary": "Having a remote employee in Louisiana can create sales tax nexus.",
+      "ruling": "An out-of-state seller with an employee working remotely from Louisiana has physical nexus in Louisiana and must register to collect and remit sales tax, regardless of whether economic nexus thresholds are met. The employee's location in Louisiana constitutes a place of business in the state."
+    },
+    {
+      "id": "RR-24-001",
+      "cite": "LDR Revenue Ruling 24-001",
+      "date": "2024-02-01",
+      "topic": "AI and Automated Services",
+      "summary": "Tax treatment of AI-generated services and products.",
+      "ruling": "AI-powered services that result in the delivery of a digital product (generated images, written content, software code) to a Louisiana customer are subject to sales tax as digital products. AI services that constitute professional services (legal analysis, accounting) rendered by a licensed professional are not subject to sales tax. Blended service offerings should be analyzed under the true object test."
+    },
+    {
+      "id": "RR-24-002",
+      "cite": "LDR Revenue Ruling 24-002",
+      "date": "2024-06-01",
+      "topic": "Short-Term Rentals — Platforms",
+      "summary": "Marketplace facilitator rules apply to short-term rental platforms.",
+      "ruling": "Short-term rental platforms (Airbnb, VRBO, etc.) meeting Louisiana's economic nexus thresholds are responsible for collecting and remitting Louisiana sales tax and applicable local occupancy taxes on rentals facilitated through their platforms. Individual hosts using these platforms are relieved of collection obligations for facilitated bookings."
+    }
+  ],
+  "rates": {
+    "state_rate": 4.45,
+    "note": "Louisiana parishes and municipalities levy additional local sales taxes. The combined rate varies by location.",
+    "parishes": [
+      { "parish": "Acadia", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Allen", "local_rate": 4.0, "combined": 8.45 },
+      { "parish": "Ascension", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Assumption", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Avoyelles", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Beauregard", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Bienville", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Bossier", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Caddo", "local_rate": 4.6, "combined": 9.05 },
+      { "parish": "Calcasieu", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Caldwell", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Cameron", "local_rate": 4.0, "combined": 8.45 },
+      { "parish": "Catahoula", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Claiborne", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Concordia", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "De Soto", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "East Baton Rouge", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "East Carroll", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "East Feliciana", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Evangeline", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Franklin", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Grant", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Iberia", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Iberville", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Jackson", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Jefferson", "local_rate": 4.75, "combined": 9.20 },
+      { "parish": "Jefferson Davis", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Lafayette", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Lafourche", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "LaSalle", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Lincoln", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Livingston", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Madison", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Morehouse", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Natchitoches", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Orleans", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Ouachita", "local_rate": 4.6, "combined": 9.05 },
+      { "parish": "Plaquemines", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Pointe Coupee", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Rapides", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Red River", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Richland", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Sabine", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "St. Bernard", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "St. Charles", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "St. Helena", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "St. James", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "St. John the Baptist", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "St. Landry", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "St. Martin", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "St. Mary", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "St. Tammany", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Tangipahoa", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Tensas", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Terrebonne", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Union", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "Vermilion", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Vernon", "local_rate": 4.0, "combined": 8.45 },
+      { "parish": "Washington", "local_rate": 5.0, "combined": 9.45 },
+      { "parish": "Webster", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "West Baton Rouge", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "West Carroll", "local_rate": 5.5, "combined": 9.95 },
+      { "parish": "West Feliciana", "local_rate": 4.5, "combined": 8.95 },
+      { "parish": "Winn", "local_rate": 5.5, "combined": 9.95 }
+    ]
+  },
+  "holidays": [
+    {
+      "name": "Back-to-School Sales Tax Holiday",
+      "timing": "First Friday and Saturday of August each year",
+      "applies_to": "Most tangible personal property items priced $2,500 or less per item, purchased for personal use. Does not apply to meals, motor vehicles, or taxable services.",
+      "cite": "La. R.S. 47:305.54"
+    },
+    {
+      "name": "Second Amendment Weekend",
+      "timing": "First consecutive Friday, Saturday, and Sunday of September",
+      "applies_to": "Firearms, ammunition, and hunting supplies.",
+      "cite": "La. R.S. 47:305.54"
+    }
+  ]
+}
