@@ -1,10 +1,5 @@
 {
-  "meta": {
-    "state": "Louisiana",
-    "last_updated": "2024-12-01",
-    "state_rate": 0.0445,
-    "description": "Louisiana Sales & Use Tax — Key Statutes, Exemptions, and Revenue Rulings (2020–2024)"
-  },
+  
   "statutes": [
     {
       "id": "RS-47-301",
